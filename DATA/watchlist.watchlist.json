@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "65c0b4942e776d26fc3faf65"
+  },
+  "id": 123572,
+  "title": "Science-fiction",
+  "items": [
+    {
+      "ItemId": 47829321,
+      "status": "A voir",
+      "note": null
+    }
+  ],
+  "userId": 2
+},
+{
+  "_id": {
+    "$oid": "65f853c361e9c9535201891a"
+  },
+  "id": 123573,
+  "userId": 2,
+  "title": "testwatchlist",
+  "items": [
+    {
+      "titre": "Interstellar",
+      "statut": "deja Vu",
+      "note": null
+    },
+    {
+      "titre": "Toy Story",
+      "statut": "Vu et validé par la street",
+      "note": null
+    }
+  ]
+}]

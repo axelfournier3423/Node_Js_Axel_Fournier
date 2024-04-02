@@ -1,0 +1,5 @@
+{
+    "databaseUrl": "*",
+    "databaseName": "*",
+    "omdbApiKey": "*"
+}

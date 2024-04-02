@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "65c0a41f2e776d26fc3faf4d"
+  },
+  "id": 47829321,
+  "type": "film",
+  "genre": "Science Fiction",
+  "duration": "169 min",
+  "annee": 2014,
+  "realisateur": "Christopher Nolan",
+  "titre": "Interstellar"
+},
+{
+  "_id": {
+    "$oid": "65f807ffec2ae92bb2e41bdc"
+  },
+  "id": 72430568,
+  "type": "film",
+  "genre": "Animation, Adventure, Comedy",
+  "duration": "81 min",
+  "annee": "1995",
+  "realisateur": "John Lasseter",
+  "titre": "Toy Story"
+}]
